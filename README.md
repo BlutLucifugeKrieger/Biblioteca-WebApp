@@ -22,3 +22,7 @@ _____________________________________
 
 ![image](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/36f3f0b6-d8e6-4990-9465-4af0298e4dee)
 
+### Segundo paso: Configuracion servidor y base de datos (SQLServer)
+
+## Enlace del script para creacion de tablas
+  **Dropbox:** https://www.dropbox.com/scl/fi/nbus19oqcm9zpapjoydhm/BibliotecaScript.sql?rlkey=vw29wq3b2j6q1tlwt7qwgskga&dl=0 
