@@ -269,7 +269,8 @@ se despliega una ventana modal (opte por una ventana modal en lugar de otra pagi
 
 En este punto, se puede colocar un titulo de un libro y se puede seleccionar como autor a alguno de los ya existentes autores en la base de datos.
 
-![38](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/39a19053-5a9b-471d-928b-d52519b9a8d3)
+![38](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/699d64c1-3010-4ee2-89d9-bbf4a2d5c9dd)
+
 ____________________________________________________________________
 
 ### Ejemplo de funcionamiento (Añadir un nuevo libro)
