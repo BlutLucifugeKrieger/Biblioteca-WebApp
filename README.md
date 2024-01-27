@@ -1,5 +1,5 @@
 
-[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2012.0.0-brightgreen)](https://nodejs.org/)
+[![Node.js Version](https://img.shields.io/badge/Node.js-18.17.0-brightgreen)](https://nodejs.org/)
 [![.NET](https://img.shields.io/badge/.NET-C%23-blue)](https://dotnet.microsoft.com/)
 [![Next.js Version](https://img.shields.io/badge/Next.js-14.1.0-blueviolet)](https://nextjs.org/)
 
