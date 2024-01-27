@@ -328,6 +328,12 @@ Por otro lado, si se desea agregar un autor, pero este ya esta registrado en la 
 
 ______________________________________________________________________
 
+## Diagrama entidad relacion (Generado en SQLServer Management Studio)
+
+![49](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/547a0264-6f41-4a0a-8abf-5758b4d8680a)
+
+______________________________________________________________________
+
 ## Extras
 
 ## Video explicativo (Complementacion a la configuracion y ejecucion del repositorio)
