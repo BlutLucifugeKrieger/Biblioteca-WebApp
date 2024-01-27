@@ -28,6 +28,17 @@ _____________________________________
 
 ![image](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/36f3f0b6-d8e6-4990-9465-4af0298e4dee)
 
+## -> Abre el GitBash donde desees generar la carpeta del repositorio
+
+En mi caso, voy a alojar la carpeta del repositorio dentro de otra carpeta vacia localizada en Documentos.
+Despues, procedo a abrir la terminar de Git (GitBash)
+![image](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/a985cca6-dff0-4e63-b47e-2f6029782ea6)
+____________________________________________________________________
+#### Clonamos el repositorio atraves del siguiente comando: git clone ""
+
+
+
+
 ### Segundo paso: Configuracion servidor y base de datos (SQLServer)
 
 ## Enlace del script para creacion de tablas
