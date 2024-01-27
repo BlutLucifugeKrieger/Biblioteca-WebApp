@@ -1,7 +1,8 @@
-[![npm](https://img.shields.io/npm/v/tu-proyecto)](https://www.npmjs.com/package/tu-proyecto)
+
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2012.0.0-brightgreen)](https://nodejs.org/)
 [![.NET](https://img.shields.io/badge/.NET-C%23-blue)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/React-%5E16.0.0-blue)](https://reactjs.org/)
+[![Next.js Version](https://img.shields.io/badge/Next.js-14.1.0-blueviolet)](https://nextjs.org/)
+
 
 # Biblioteca - Web Application
 _____________________________________
