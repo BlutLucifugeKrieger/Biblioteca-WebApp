@@ -35,6 +35,13 @@ _____________________________________
           se recomienda usa NVM. Para mayor informacion 
           entra al siguiente enlace: https://github.com/coreybutler/nvm-windows
 _____________________________________
+
+## Patron de diseño (API)
+Como se indica en la documentacion de la prueba tecnica, 
+el patron de diseño a implementar sera el MVC (MODELO VISTA CONTROLADOR)
+
+_____________________________________
+
 ## Configuracion del proyecto y ejecucion del mismo
 
 ## Primer paso: Clonacion del repositorio (GitHub)
