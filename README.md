@@ -83,7 +83,7 @@ posteriormente en el entorno SQL Server Management studio.
 
 ![2-2](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/3e2a1eff-03f5-4a8a-95b2-1aceb9fd7249)
 
-Al importar el script, debemos crear una nueva base de datos.
+Al importar el script, el siguiente paso es crear la base de datos.
 
 ![5-5](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/73b431c5-c314-4f9b-a96b-f0e8afbbfa7f)
 
