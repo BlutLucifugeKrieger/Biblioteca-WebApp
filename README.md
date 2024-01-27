@@ -29,8 +29,11 @@ _____________________________________
 ### Versiones de las tecnologias
 
 **-> ASP.NET MVC:** version 6.0 de .NET 
+
 **-> NodeJS:** version 18.17.0
+
 **-> NPM:** version 10.2.5
+
 **-> React NextJS:** version 14.1.0
 
 **Nota:** Para cambiar entre versiones de NodeJS,
@@ -39,6 +42,7 @@ _____________________________________
 _____________________________________
 
 ## Patron de diseño (API)
+
 Como se indica en la documentacion de la prueba tecnica, 
 el patron de diseño a implementar sera el MVC (MODELO VISTA CONTROLADOR)
 
