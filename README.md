@@ -1,4 +1,4 @@
-![29](https://github.com/BlutLucifugeKrieger/Biblioteca-WebApp/assets/130005378/e96356d0-6b4e-4429-a27c-c8ff1b91e560)
+
 [![Node.js Version](https://img.shields.io/badge/Node.js-18.17.0-brightgreen)](https://nodejs.org/)
 [![.NET](https://img.shields.io/badge/.NET-C%23-blue)](https://dotnet.microsoft.com/)
 [![Next.js Version](https://img.shields.io/badge/Next.js-14.1.0-blueviolet)](https://nextjs.org/)
