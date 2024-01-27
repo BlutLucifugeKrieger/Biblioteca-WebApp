@@ -1,7 +1,7 @@
 # Biblioteca - Web Application
 _____________________________________
 ## Informacion de contacto
-### Desarrollador: Juan Camilo Castro
+### Desarrollador: Juan Camilo Castro Velasquez
 ### Email: juan.leviathan@outlook.com
 _____________________________________
 
@@ -11,7 +11,9 @@ Desarrollar una aplicación web simplificada de gestión de biblioteca utilizand
 
 ### Tecnologias a utilizar:
   **1.** Utilizar ASP.NET MVC con C# (API).
+  
   **2.** Base de datos: SQL Server.
+  
   **3.** React NextJS (UI)
 _____________________________________
 ### Configuracion del proyecto y ejecucion del mismo
