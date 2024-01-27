@@ -16,4 +16,7 @@ Desarrollar una aplicación web simplificada de gestión de biblioteca utilizand
   
   **3. UI:** React NextJS 
 _____________________________________
-### Configuracion del proyecto y ejecucion del mismo
+## Configuracion del proyecto y ejecucion del mismo
+
+### Primer paso: Clonacion del repositorio (GitHub)
+
