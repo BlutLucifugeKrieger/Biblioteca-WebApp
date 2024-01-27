@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Martian Mono', monospace;
+}
+
+body{
+
+    min-height: 100vh;
+    background: url(../images/grey-2.jpg) center/cover no-repeat fixed; 
+    display: grid;
+    justify-content: center;
+    place-items: center;
+
+}
+
+
+.container{
+
+    display: flex;
+    
+    
+}
+
+.btn{
+
+    background-color: rgb(175, 179, 184);
+    color: white;
+    border: 0;
+    padding: 0.5rem 0.5rem;
+    justify-content: center;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin-left: -13px;
+    margin-bottom: 5px;
+}
+
+.btn:hover{
+
+    background-color: rgba(177, 158, 158, 0.579)
+
+}
+
+
+.exit_button{
+
+    margin-left: 700px;
+}
+
+
+#tr_head{
+
+    text-align: center;
+    
+}
+
+#th_head{
+
+    background-color: rgb(245, 240, 240);
+}
+
+#ths{
+
+    text-align: center;
+}
+
+#info_panel{
+
+    text-align: center;
+    background-color: rgb(245, 240, 240);
+}
+
+#add_button{
+
+    margin-left: 90px;
+    
+    
+}
+
+
+
+#modal_table {
+
+    max-width: 600px; 
+    width: 60%;
+    
+}
+
+#modal_body {
+    
+    
+    overflow-y: hidden; 
+}
+
+#modal_table_class {
+    width: 100%; 
+}
+
+
+#modal_general{
+
+    margin-top: 100px;
+    max-width: 90%; 
+
+}
+
+
