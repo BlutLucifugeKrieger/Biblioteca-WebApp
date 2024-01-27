@@ -10,10 +10,10 @@ _____________________________________
 Desarrollar una aplicación web simplificada de gestión de biblioteca utilizando ASP.NET MVC que permita a los usuarios ver, agregar libros y autores.
 
 ### Tecnologias a utilizar:
-  **1.** Utilizar ASP.NET MVC con C# (API).
+  **1. API:** Utilizar ASP.NET MVC con C#.
   
-  **2.** Base de datos: SQL Server.
+  **2. Base de datos:** SQL Server.
   
-  **3.** React NextJS (UI)
+  **3. UI:** React NextJS 
 _____________________________________
 ### Configuracion del proyecto y ejecucion del mismo
