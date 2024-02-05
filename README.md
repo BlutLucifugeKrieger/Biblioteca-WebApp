@@ -7,8 +7,6 @@
 # Biblioteca - Web Application
 _____________________________________
 ## Informacion de contacto
-### Desarrollador: Juan Camilo Castro Velasquez
-### Email: juan.leviathan@outlook.com
 _____________________________________
 
 ## Descripcion
@@ -334,12 +332,3 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-## Extras
-
-## Video explicativo (Complementacion a la configuracion y ejecucion del repositorio)
-
-   Para complementar, la configuracion y ejecucion de este repositorio de GitHub, realice un video paso a paso.
-   Para acceder, dale click al siguiente enlace de Dropbox: https://www.dropbox.com/scl/fi/iv8tc0t4dao4f2ocobsue/configuracion_y_ejecucion_del_proyecto_juan_castro.mp4?rlkey=43306aosl5tw7tdjjbepy06zv&dl=0
-
-### Muchas gracias, por la oportunidad de trabajar con ustedes
-### Estare al pendiente sobre cualquier inquietud.
